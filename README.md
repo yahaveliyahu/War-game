@@ -33,6 +33,14 @@ If both players draw cards of equal value, the real War Game rules apply:
 - The 4th card is revealed and compared
 - If another tie occurs, the war repeats
 
+---
+
+## Watch the App in Action
+
+▶️ **Demo video:** [Click here to watch the video](https://youtu.be/K8ZYcBrBw_0)
+
+---
+
 ## Screens
 
 1. **Welcome Screen** — Enter name, detect location, choose side
